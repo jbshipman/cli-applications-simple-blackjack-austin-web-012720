@@ -1,6 +1,6 @@
 def welcome
   # code #welcome here
-  
+  "Welcome to CLI Blackjack, User."
 end
 
 def deal_card
